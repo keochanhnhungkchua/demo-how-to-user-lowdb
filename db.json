@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "blah"
+    },
+    {
+      "id": 2,
+      "text": "lowdb is awesome"
+    },
+    {
+      "id": 3,
+      "text": "Rửa bát"
+    },
+    {
+      "text": "dddd"
+    },
+    {
+      "text": "5555"
+    }
+  ]
+}
